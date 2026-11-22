@@ -1,9 +1,9 @@
 # Artificial Intelligence in Smart Robotics (CSAI4014) — Laboratory Repository
 
 **Student Name:** Disha Rastogi  
-**SAP ID:** 500119681
-**Roll Number:** R2142230242 
-**Batch:** B.Tech CSE (AI & ML) B1  
+**SAP ID:** 500119681  
+**Roll Number:** R2142230242  
+**Batch:** B.Tech CSE (AI & ML) B1   
 **Course Teacher:** Dr. Resham Raj Shivwanshi  
 
 ---
